@@ -17,4 +17,5 @@ Dataset and model trained weights can be downloaded from this [link]((https://do
 python run_network.py --model_pretrained Baseline.pt --skip_training
 
 ### Training from scratch
-python run_network.py
+
+python run_network.py --model_pretrained None
