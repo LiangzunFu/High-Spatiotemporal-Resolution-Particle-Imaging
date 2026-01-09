@@ -1,4 +1,4 @@
-# High-Spatiotemporal-Resolution Particle Imaging in Microfluidic Devices Using Event-Frame Cameras and Deep Learning aaa
+# High-Spatiotemporal-Resolution Particle Imaging in Microfluidic Devices Using Event-Frame Cameras and Deep Learning
 <img width="2540" height="2044" alt="workflow" src="https://github.com/user-attachments/assets/6a50a30c-719a-4ba4-92e0-0fead707f837" />
 
 
