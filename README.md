@@ -8,7 +8,7 @@ Please download dependency packages by
 pip install -r requirements.txt
 ```
 
-### Dataset
+### Dataset and model trained weights
 Download datasets and change parameter '--dataset_path' in `Event_Frame_VFI/Timelens-XL-main/run_network.py`
 
 Dataset and model trained weights can be downloaded from this [link]((https://doi.org/10.5281/zenodo.18193667)
