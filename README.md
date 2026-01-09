@@ -13,8 +13,8 @@ Download datasets and change parameter '--dataset_path' in `Event_Frame_VFI/Time
 
 [link]((https://doi.org/10.5281/zenodo.18193667)
 
-### Evaluation on HQ-EVFI
-python run_network.py --model_pretrained ./weights/Baseline.pt --skip_training
+### Evaluation
+python run_network.py --model_pretrained Baseline.pt --skip_training
 
-### Training on HQ-EVFI
-Just remove --skip_training of evaluation code. 
+### Training from scratch
+python run_network.py
