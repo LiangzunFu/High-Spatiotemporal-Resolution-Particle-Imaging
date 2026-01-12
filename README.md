@@ -11,7 +11,7 @@ pip install -r requirements.txt
 ### Dataset and model trained weights
 Download datasets and change parameter '--dataset_path' in `Event_Frame_VFI/Timelens-XL-main/run_network.py`
 
-Dataset and model trained weights can be downloaded from this [link]((https://doi.org/10.5281/zenodo.18193667)
+Pretrained weights on the full dataset and a sample dataset can be downloaded from this link.((https://drive.google.com/drive/folders/1Uepgowzm38n8v_fh8XZSYGEvM8-ssARK?usp=drive_link)) The full dataset will be made publicly available upon publication.
 
 ### Evaluation
 python run_network.py --model_pretrained Baseline.pt --skip_training
