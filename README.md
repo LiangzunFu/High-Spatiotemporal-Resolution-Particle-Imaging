@@ -14,7 +14,7 @@ Download datasets and change parameter '--dataset_path' in `Event_Frame_VFI/Time
 Pretrained weights on the full dataset and a sample dataset can be downloaded from this link.((https://drive.google.com/drive/folders/1Uepgowzm38n8v_fh8XZSYGEvM8-ssARK?usp=drive_link)) The full dataset will be made publicly available upon publication.
 
 ### Evaluation
-python run_network.py --model_pretrained Baseline.pt --skip_training
+python run_network.py --model_pretrained Event-Mask.pt --skip_training
 
 ### Training from scratch
 
